@@ -1,0 +1,63 @@
+# RoadRunner MTL Export
+
+newmtl SharedTexture02
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.498039 0.498039 0.498039
+Ns 950.049988
+Tr 0.000000
+map_Kd Signals_TextureSheet01_Diff.png
+map_bump Signals_TextureSheet01_Norm.png
+map_Ks Signals_TextureSheet01_Spec.png
+
+newmtl Sign_R1-1.svg
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_R1-1.png
+
+newmtl Sign_R1-1-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_R1-1-Back.png
+
+newmtl Asphalt1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.058824 0.058824 0.058824
+Ns 850.150024
+Tr 0.000000
+map_Kd Asphalt1_Diff.png
+map_bump Asphalt1_Norm.png
+map_Ks Asphalt1_Spec.png
+
+newmtl LaneMarking1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.196078 0.196078 0.196078
+Ns 900.099976
+Tr 0.000000
+map_Kd LaneMarking1_Diff.png
+map_bump LaneMarking1_Norm.png
+map_Ks LaneMarking1_Spec.png
+
+newmtl Concrete1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Concrete1_Diff.png
+map_bump Concrete1_Norm.png
+map_Ks Concrete1_Spec.png
