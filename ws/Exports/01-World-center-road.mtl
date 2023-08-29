@@ -29,6 +29,17 @@ Ns 800.200012
 Tr 0.000000
 map_Kd Sign_R1-1-Back.png
 
+newmtl Grass1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Grass1_Diff.png
+map_bump Grass1_Norm.png
+map_Ks Grass1_Spec.png
+
 newmtl Asphalt1
 illum 2
 Ka 1.000000 1.000000 1.000000
