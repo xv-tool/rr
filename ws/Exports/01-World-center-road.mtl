@@ -29,6 +29,61 @@ Ns 800.200012
 Tr 0.000000
 map_Kd Sign_R1-1-Back.png
 
+newmtl Siding_mat1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.498039 0.498039 0.498039
+Ns 988.407898
+Tr 0.000000
+map_Kd SidingWoodAgedGray_Diff.png
+map_bump SidingWoodAgedGray_Norm.png
+map_Ks SidingWoodAgedGray_Spec.png
+
+newmtl TrimSheetTrimsProps1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.498039 0.498039 0.498039
+Ns 970.650818
+Tr 0.000000
+map_Kd TrimSheetTP05_Diff.png
+map_bump TrimSheetTP05_Norm.png
+map_Ks TrimSheetTP05_Spec.png
+
+newmtl TrimSheetDoorsWindows1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.498039 0.498039 0.498039
+Ns 980.650085
+Tr 0.000000
+map_Kd TrimSheetDW07_Diff.png
+map_bump TrimSheetDW07_Norm.png
+map_Ks TrimSheetDW07_Spec.png
+
+newmtl Roof_mat11
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.498039 0.498039 0.498039
+Ns 989.686035
+Tr 0.000000
+map_Kd RoofShinglesGray_Diff.png
+map_bump RoofShinglesRed_Norm.png
+map_Ks RoofShinglesRed_Spec.png
+
+newmtl Foundation_Concrete45
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.498039 0.498039 0.498039
+Ns 950.049988
+Tr 0.000000
+map_Kd Foundation_Diff.png
+map_bump Foundation_Norm.png
+map_Ks Foundation_Spec.png
+
 newmtl Grass1
 illum 2
 Ka 1.000000 1.000000 1.000000
